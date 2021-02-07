@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #1f1f1f;
+}
+
+.btn-nuestras-tiendas{
+    width: 130px;
+    height: 45px;
+
+}
+
+
+
+.btn-nuestras-tiendas>p{
+    font-size: 12px;
+}
+.btn-nuestras-tiendas>img{
+    width: 25px;
+    height: 25px;
+}
+
+.descripcion{
+    height: 55px;
+    
+}
+
+.nav{
+    background: #3e3e3e;
+    height: 70px;
+   
+   
+}
+
+.img-icons{
+ 
+    width: 20px;
+    height: 20px;
+
+}
+
+.desc-text{
+    font-size: 12px;
+}
+
+.img-logo{
+    fill: currentColor !important;
+}
+
+.inp-buscar{
+    outline: none;
+}
+
+.img-carousel{
+    width: 100%;
+    height: 600px;
+}
+
+
+
+
+.contenedor{
+    background: black;
+    height: 2500px;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.img-categoria{
+    width: 30px;
+    height: 30px;
+}
+
+.caja-hija-categoria{
+    height: 45px;
+}
+
+.card-producto{
+    background: #3e3e3e;
+}
+
+.card-aviso{
+    width: 100px;
+    height: 35px;
+    background: #b7eea1;
+}
+
+.cont-categoria{
+    height:523px ;
+}
+
+footer{
+    background: #3e3e3e;
+    height: 300px;
+}
