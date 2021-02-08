@@ -64,8 +64,7 @@ body{
 
 .container{
     background: black;
-    height: 400px;
-    width: 1440px;
+    height: auto;
     margin: 0 auto;
 }
 
@@ -102,7 +101,6 @@ h5{
     padding-top: 20px;
 }
 
-footer{
+footer .container{
     background: #262626;
-    height: 100px; 
 }
