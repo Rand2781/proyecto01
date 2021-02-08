@@ -92,6 +92,13 @@ body{
     height:523px ;
 }
 
+
+#ventajas{
+    width: 120px;
+    height: 120px;
+    padding-top: 20px;
+}
+
 footer{
     background: #262626;
     height: 100px; 
